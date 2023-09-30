@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RongwuLai
 - 👀 I’m majoring in computational mechanics.
-- 🌱 I’m currently learning deeping lenrning lessons.
+- 🌱 I’m currently learning deeping learning lessons.
 
 <!---
 RongwuLai/RongwuLai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
